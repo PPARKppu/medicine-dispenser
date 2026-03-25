@@ -38,4 +38,4 @@ The system recommends appropriate medicine based on symptoms and provides dosage
 ---
 
 ## Awards
-- [Certificate](./EE-Thon_Prize_HaminPark.pdf) (1st place)
+- [Certificate](./EE-Thon_Prize_HaminPark.pdf) (Grand Prize, EE-Thon 2024)

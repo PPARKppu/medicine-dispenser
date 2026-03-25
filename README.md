@@ -25,8 +25,8 @@ The system recommends appropriate medicine based on symptoms and provides dosage
 ---
 
 ## Documents
-- [Report](./[Medicine_Dispenser_Report.pdf](https://github.com/user-attachments/files/26229829/Medicine_Dispenser_Report.pdf))
-- [Poster](./[Medicine_Dispenser_Poster.pdf](https://github.com/user-attachments/files/26229837/Medicine_Dispenser_Poster.pdf))
+- [Report](.[Medicine_Dispenser_Report.pdf)
+- [Poster](./Medicine_Dispenser_Poster.pdf)
 
 ---
 
@@ -39,4 +39,4 @@ The system recommends appropriate medicine based on symptoms and provides dosage
 
 ## Awards
 - 1st place (대상)
-[Certificate](./[EE-Thon_Prize_HaminPark.pdf](https://github.com/user-attachments/files/26229825/EE-Thon_Prize_HaminPark.pdf))
+[Certificate](./EE-Thon_Prize_HaminPark.pdf)

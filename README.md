@@ -24,16 +24,16 @@ The system recommends appropriate medicine based on symptoms and provides dosage
 
 ---
 
-## Documents
-- [Report](./Medicine_Dispenser_Report.pdf)
-- [Poster](./Medicine_Dispenser_Poster.pdf)
-
----
-
 ## Future Work
 - AI-based medicine recommendation
 - Health data tracking
 - Expansion to elderly care systems
+
+---
+
+## Documents
+- [Report](./Medicine_Dispenser_Report.pdf)
+- [Poster](./Medicine_Dispenser_Poster.pdf)
 
 ---
 

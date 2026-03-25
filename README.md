@@ -25,7 +25,7 @@ The system recommends appropriate medicine based on symptoms and provides dosage
 ---
 
 ## Documents
-- [Report](.[Medicine_Dispenser_Report.pdf)
+- [Report](./Medicine_Dispenser_Report.pdf)
 - [Poster](./Medicine_Dispenser_Poster.pdf)
 
 ---
